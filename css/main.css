@@ -1,0 +1,133 @@
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+    background: #ebebeb;
+}
+.navbar{
+    background: #ffffff;
+    margin-bottom: 0px;
+}
+
+.navbar-brand{
+    font-size: 28px;
+}
+.navbar-brand span{
+    color: #f77b6f;
+}
+
+#aa a:hover {
+    background: #f77b6f;
+    border-radius: 4px;
+}
+/*header结束*/
+.banner{
+	background:url(../image/banner_top.jpg) top center;
+	height:265px;
+}
+
+.box{
+	margin-left:18%;
+}
+/*banner结束*/
+.art{
+    padding: 35px;
+    margin-top: 35px;
+    background: #ffffff;
+    overflow: hidden;
+}
+.art h1{
+    text-align: center;
+    font-size: 2.5em;
+    line-height: 1em;
+    margin: 0px;
+}
+
+.art h1 a{
+    color: #303030;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+}
+.art-meta{
+    margin-top: 14px;
+    color: #959595;
+    text-align: center;
+}
+.art-content{
+    font-size: 18px;
+    color:#444443;
+    margin: 30px 0px;
+}
+.art-btn a{
+    background:#f77b6f ;
+    color: #ffffff;
+}
+.art-btn a:hover{
+    background:#303030;
+    color: #ffffff;
+}
+.art-foot{
+    margin-top: 30px;
+    border-top: 1px solid #ebebeb;
+    padding: 21px 0 0;
+}
+.art-foot a{
+    text-decoration:none;
+    color: #959595;
+}
+/*article结束*/
+.page{
+    margin-top: 30px;
+    margin-left: 36%;
+ }
+.page .btn{
+    background:#f77b6f ;
+}
+/*page结束*/
+.widget{
+    margin-top: 35px;
+    padding: 21px 30px;
+    background: #ffffff;
+}
+.widget h4{
+    padding-bottom: 7px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ebebeb;
+    font-size: 1.5em;
+    color: #303030;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", "WenQuanYi Micro Hei", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+}
+.widget h4 span{
+    padding-right: 45px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #e67e22;
+}
+.contact-content a{
+    border: 1px solid #ebebeb;
+    padding:2px 7px;
+    color:#959595;
+    line-height: 1.4em;
+    margin: 0px 7px 7px 0px;
+    font-size: 1.4em;
+    display: inline-block;
+    text-decoration: none;
+}
+.contact-content a:hover{
+    color:#f77b6f ;
+}
+/*aside结束*/
+.main-foot{
+    background: #f77b6f;
+    margin-top: 35px;
+    padding-bottom: 35px;
+}
+.main-foot .widget{
+    height: 320px;
+}
+.art-tit{
+    margin-bottom: 5px;
+}
+.art-tit p{
+    padding-left: 7px;
+}
+
